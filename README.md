@@ -1,2 +1,2 @@
-# RePTaR_field
-RePTaR Arduino version to be used in field
+# RePTaR Field
+Converse Lab RFID detection for Brown Treesnakes in Guam
